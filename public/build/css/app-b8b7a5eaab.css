@@ -245,4 +245,7 @@ a.btn-primary.orange {
   a.btn-primary.orange:hover {
     background-color: #f4e542 !important; }
 
+.jumbotron {
+  background-size: 100% auto !important; }
+
 /*# sourceMappingURL=app.css.map */
