@@ -5,8 +5,6 @@
 <section id="sec1">
     <div class="container">
 
-        {!! PageBuilder::breadcrumb() !!}
-
         <?php
         $sidebar_title = PageBuilder::block('sidebar_title');
         ?>
