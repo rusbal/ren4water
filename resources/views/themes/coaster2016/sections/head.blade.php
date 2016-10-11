@@ -24,6 +24,7 @@
 
     <link href="{!! PageBuilder::css('bootstrap') !!}" rel="stylesheet">
     <link href="{!! PageBuilder::css('style') !!}" rel="stylesheet">
+    <link href="{{ elixir('css/app.css') }}" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
