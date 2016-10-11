@@ -1,3 +1,6 @@
+.btn-no-margin {
+  margin: 0; }
+
 .footer-menu {
   display: inline-block; }
   .footer-menu a.btn-primary.orange {
