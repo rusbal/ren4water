@@ -54,4 +54,4 @@ try {
     <!-- /.container -->
 </section>
 
-{!! PageBuilder::section('footer') !!}
+{!! PageBuilder::section('footera') !!}

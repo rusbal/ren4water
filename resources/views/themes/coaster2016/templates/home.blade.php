@@ -19,4 +19,4 @@
 
 {!! PageBuilder::block('banner') !!}
 
-{!! PageBuilder::section('footer') !!}
+{!! PageBuilder::section('footera') !!}
