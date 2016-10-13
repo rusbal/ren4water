@@ -47,7 +47,7 @@
                   <h5>Donate</h5>
                   <ul>
                     <li><a class="btn-primary orange" href="/donate">Donate</a> </li>
-                    <li><a href="#">Sponsor</a> </li>
+                    <li><a href="/sponsor">Sponsor</a> </li>
                   </ul>
                 </div>
 
