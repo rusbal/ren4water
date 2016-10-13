@@ -11,7 +11,7 @@
                 {!! PageBuilder::block('logo', ['height' => '60px']) !!}
             </a>
         </div>
-        <div id="navbar" class="collapse navbar-collapse">
+        <div id="navbar" class="collapse navbar-collapse pull-right">
             <ul class="nav navbar-nav">
                 {!! $items !!}
             </ul>
