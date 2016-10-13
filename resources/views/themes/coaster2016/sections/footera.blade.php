@@ -8,9 +8,9 @@
                 <div class="footer-menu" style="">
                   <h5>Supporters</h5>
                   <ul>
-                    <li><a href="/supporters/financial">Our Financial Sponsors</a> </li>
-                    <li><a href="/supporters/suppliers">Our Strategic Suppliers</a> </li>
-                    <li><a href="/supporters/partners">Our Field Partners</a> </li>
+                    <li><a href="/supporters-financial">Our Financial Sponsors</a> </li>
+                    <li><a href="/supporters-suppliers">Our Strategic Suppliers</a> </li>
+                    <li><a href="/supporters-partners">Our Field Partners</a> </li>
                   </ul>
                 </div>
 
@@ -21,9 +21,9 @@
                 <div class="footer-menu" style="">
                   <h5>News</h5>
                   <ul>
-                    <li><a href="/news/water">Water News</a> </li>
+                    <li><a href="/news-water">Water News</a> </li>
                     <li><a href="/blog">Project Blog</a> </li>
-                    <li><a href="/news/field">News From Field</a> </li>
+                    <li><a href="/news-field">News From Field</a> </li>
                   </ul>
                 </div>
 
