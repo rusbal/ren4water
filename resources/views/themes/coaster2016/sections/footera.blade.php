@@ -1,4 +1,5 @@
-
+    <div id="push"></div><!-- to push footer to bottom -->
+</div><!-- div#wrap -->
 <footer>
     <div class="container">
         <div class="row text-center">
